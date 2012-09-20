@@ -1,0 +1,13 @@
+[
+    {
+        "id": "selection",
+        "children":
+        [
+            {
+                "caption": "New Scratch Snippet",
+                "id": "scratch-snippet",
+                "command": "scratch_snippet"
+            }
+        ]
+    }
+]
