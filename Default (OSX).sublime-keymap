@@ -1,0 +1,10 @@
+[  
+    {  
+        "keys": ["ctrl+option+s"], 
+        "command": "scratch_snippet"
+    },
+    {  
+        "keys": ["ctrl+shift+s"], 
+        "command": "insert_scratch_snippet"
+    }  
+]

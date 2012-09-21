@@ -7,6 +7,11 @@
                 "caption": "New Scratch Snippet",
                 "id": "scratch-snippet",
                 "command": "scratch_snippet"
+            },
+            {
+                "caption": "Insert Scratch Snippet",
+                "id": "insert-scratch-snippet",
+                "command": "insert_scratch_snippet"
             }
         ]
     }
